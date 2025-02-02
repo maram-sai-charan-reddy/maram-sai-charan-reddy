@@ -54,8 +54,6 @@
 ---
 
 ## 📈 **GitHub Stats**
-![Sai Charan Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maram-sai-charan-reddy&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maram-sai-charan-reddy&theme=highcontrast)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maram-sai-charan-reddy&layout=compact)  
 
 ---
