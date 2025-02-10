@@ -3,7 +3,7 @@
 💡 **Data Analyst | Data Engineer | Business Intelligence Enthusiast**  
 📊 Passionate about turning **raw data into powerful insights**  
 🚀 Specializing in **SQL, Snowflake, Power BI, Tableau, Python, and Machine Learning**  
-🌎 Experienced in **Retail, E-commerce, and SaaS domains**  
+🌎 Experienced in **Retail, E-commerce, Operations and SaaS domains**  
 
 ---
 
